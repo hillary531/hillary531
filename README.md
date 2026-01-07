@@ -1,51 +1,75 @@
 <h1 align="center">Hi 👋, I'm Hillary</h1>
-<h3 align="center">AI Test Development Engineer | FinTech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hillary531&label=Profile%20views&color=0e75b6&style=flat" alt="hillary531" />
+  <img src="https://readme-typing-svg.herokuapp.com
+  ?font=Fira+Code
+  &size=24
+  &pause=1000
+  &color=7C3AED
+  &center=true
+  &vCenter=true
+  &width=650
+  &lines=AI+Test+Development+Engineer;FinTech+Quality+Engineering;Reliable+AI+Systems+Builder" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hillary531&label=Profile%20views&color=7C3AED&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 AI Test Development Engineer, focusing on **model validation & automation**
-- 💰 FinTech domain experience: **risk control, data quality, system reliability**
-- 🧪 Skilled in **test frameworks, automation, and AI model testing**
-- 🌱 Currently exploring **LLM testing, MLOps, and AI evaluation**
-- 📫 Reach me at: **your_email@example.com**
+- 🤖 **AI Test Development Engineer** with a focus on model validation & automation  
+- 💳 **FinTech domain** experience: risk control, data quality, system reliability  
+- 🧪 Specialized in **AI / ML / LLM testing frameworks**  
+- ⚙️ Passionate about **quality engineering for intelligent systems**  
+- 🌱 Currently exploring **LLM evaluation, MLOps, and AI safety**
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-22D3EE?style=for-the-badge&logo=java&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-F472B6?style=for-the-badge&logo=gnu-bash&logoColor=black)
 
 ### 🧪 Testing & Automation
-![PyTest](https://img.shields.io/badge/-PyTest-black?style=flat-square&logo=pytest)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![PyTest](https://img.shields.io/badge/PyTest-22D3EE?style=for-the-badge&logo=pytest&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-7C3AED?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F472B6?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🤖 AI / Data
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square&logo=tensorflow)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=pytorch)
-![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square&logo=openai)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-22D3EE?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-F472B6?style=for-the-badge)
 
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+### ⚙️ DevOps & Environment
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-22D3EE?style=for-the-badge&logo=docker&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-F472B6?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hillary531&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillary531&layout=compact&theme=tokyonight" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api
+  ?username=hillary531
+  &show_icons=true
+  &theme=tokyonight
+  &icon_color=22D3EE
+  &title_color=7C3AED
+  &text_color=E5E7EB
+  &bg_color=0D1117" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/
+  ?username=hillary531
+  &layout=compact
+  &theme=tokyonight
+  &title_color=F472B6
+  &bg_color=0D1117" />
 </p>
 
 ---
@@ -53,21 +77,27 @@
 ## 🔥 Featured Projects
 
 - 🧠 **AI Model Testing Framework**  
-  _Automated evaluation for ML / LLM models (accuracy, robustness, bias)_
+  Automated evaluation for ML / LLM models (accuracy, robustness, bias, consistency)
 
 - 💳 **FinTech Risk Control Testing System**  
-  _Data validation & rule-based testing for financial transaction systems_
+  Rule-based & data-driven testing for financial transaction systems
 
 - ⚙️ **Test Automation Toolkit**  
-  _Reusable Python-based testing utilities_
+  Reusable Python testing utilities for backend & AI services
 
-👉 Check my pinned repositories for details.
+👉 See pinned repositories for details.
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hillary531&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph
+?username=hillary531
+&theme=react-dark
+&bg_color=0D1117
+&color=22D3EE
+&line=7C3AED
+&point=F472B6)
 
 ---
 
@@ -75,6 +105,7 @@
 
 - 💼 LinkedIn: _add your link_
 - 📝 Blog / Medium: _add your link_
+- 📫 Email: _your_email@example.com_
 
 ---
 
