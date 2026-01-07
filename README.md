@@ -1,131 +1,89 @@
-<h1 align="center">Hi 👋, I'm Hillary Zhou</h1>
+<h1 align="center">Hillary Zhou</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com
   ?font=JetBrains+Mono
-  &size=26
-  &pause=800
-  &color=8B5CF6
+  &size=24
+  &pause=900
+  &color=6366F1
   &center=true
   &vCenter=true
-  &width=760
-  &lines=AI+Test+Development+Engineer;FinTech+Quality+Engineering;AI+Model+%26+Data+Validation;Automation+for+Reliable+Systems" />
-</p>
-
-
----
-
-## 🚀 About Me
-
-- 🤖 **AI Test Development Engineer** with hands-on experience in automation frameworks and AI model validation  
-- 💳 Background in **FinTech & e-commerce systems**, focusing on data quality, risk control, and system reliability  
-- 🧪 Experienced in **API / UI automation, CI/CD integration, and AI-driven testing pipelines**  
-- 📊 Strong foundation in **data validation, anomaly detection, and evaluation metrics**  
-- 🎓 Master of Information Technology candidate @ **The Hong Kong Polytechnic University** :contentReference[oaicite:0]{index=0}
-
----
-
-## 🧰 Tech Stack (CV-aligned)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-38BDF8?style=for-the-badge&logo=java&logoColor=black)
-![C](https://img.shields.io/badge/C-F472B6?style=for-the-badge)
-
----
-
-### 🧪 Testing & Quality Engineering
-![PyTest](https://img.shields.io/badge/PyTest-38BDF8?style=for-the-badge&logo=pytest&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-8B5CF6?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F472B6?style=for-the-badge&logo=postman&logoColor=white)
-![MeterSphere](https://img.shields.io/badge/MeterSphere-38BDF8?style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-8B5CF6?style=for-the-badge)
-
----
-
-### 🤖 AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-38BDF8?style=for-the-badge&logo=pytorch&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F472B6?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=for-the-badge)
-![Data Validation](https://img.shields.io/badge/Data%20Validation-38BDF8?style=for-the-badge)
-
----
-
-### ⚙️ DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-F472B6?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🌐 Web (Project-level Experience)
-![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F472B6?style=for-the-badge&logo=javascript&logoColor=black)
-
-> _Used in academic & project contexts (not full-time frontend specialization)_ :contentReference[oaicite:1]{index=1}
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api
-  ?username=hillary531
-  &show_icons=true
-  &theme=transparent
-  &title_color=8B5CF6
-  &icon_color=38BDF8
-  &text_color=E5E7EB
-  &bg_color=0B1220" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=hillary531
-  &layout=compact
-  &theme=transparent
-  &title_color=F472B6
-  &text_color=E5E7EB
-  &bg_color=0B1220" />
+  &width=720
+  &lines=AI+Test+Development+Engineer;FinTech+Quality+Engineering;AI+Model+and+Data+Validation" />
 </p>
 
 ---
 
-## 🔥 Selected Experience Highlights
+## Profile
 
-- 🧠 **AI-driven Test Automation Framework**  
-  Python-based framework with Swagger test case generation, PyTest + Allure reporting,  
-  integrated into Jenkins CI/CD for scalable regression testing :contentReference[oaicite:2]{index=2}
+AI Test Development Engineer with experience in **automation testing, AI model validation, and data quality engineering**.  
+Background in **FinTech and e-commerce systems**, focusing on reliability, risk control, and scalable testing pipelines.
 
-- 💳 **FinTech / E-commerce Quality Engineering**  
-  API automation (85%+ coverage), UI automation for WeChat Mini Programs,  
-  and UAT validation to ensure business-critical reliability :contentReference[oaicite:3]{index=3}
-
-- 📊 **Data Quality & Validation Engineering**  
-  Automated data checks using Python (Pandas) & SQL,  
-  anomaly detection workflows, and QA dashboards for business stakeholders :contentReference[oaicite:4]{index=4}
+Currently pursuing a **Master of Information Technology** and interested in building **trustworthy, testable AI-driven systems**.
 
 ---
 
-## 🌌 Activity Visualization
+## Core Skills
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph
-?username=hillary531
-&bg_color=0B1220
-&color=38BDF8
-&line=8B5CF6
-&point=F472B6
-&area=true
-&hide_border=true)
+### Programming
+- Python · Java · C
+
+### Testing & Quality Engineering
+- API Automation (Postman, MeterSphere)
+- UI Automation (Selenium)
+- PyTest-based frameworks
+- Test case design & UAT support
+
+### AI & Data
+- Machine Learning fundamentals
+- TensorFlow · PyTorch
+- Computer Vision (image classification, feature extraction)
+- Data validation & anomaly detection
+
+### DevOps & Tooling
+- Git · Docker · Jenkins
+- Linux
+- Jira · Confluence
 
 ---
 
-## 🌍 Contact
+## Selected Projects
 
-- 📫 Email: **hillary.zhou97938955@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/hillary-zhou-146018399/
+### AI-driven Test Automation Framework
+A Python-based testing framework for backend and AI services.
+- Swagger-based API test case generation
+- PyTest + Allure execution and reporting
+- Integrated with Jenkins CI/CD for regression testing
+
+### FinTech Risk Control Testing Platform
+Quality engineering support for transaction and risk control systems.
+- High-coverage API automation
+- Data validation and rule-based checks
+- UAT validation for business-critical scenarios
+
+### Data Quality & Validation Toolkit
+Reusable utilities for large-scale data verification.
+- Pandas and SQL-based validation rules
+- Automated anomaly detection workflows
+- QA dashboards for data quality monitoring
 
 ---
 
-⭐️ *Focused on building reliable, testable, and trustworthy AI-driven systems.*
+## Education
+
+**The Hong Kong Polytechnic University**  
+Master of Information Technology
+
+**Wuhan University of Science and Technology**  
+B.E. in Computer Science · B.M. in Administration
+
+---
+
+## Contact
+
+- Email: hillary.zhou97938955@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/hillary-zhou-146018399/
+
+---
+
+*Focused on engineering reliable and trustworthy AI-enabled systems through quality and testing.*
