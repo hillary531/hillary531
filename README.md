@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-- 🤖 **AI Test Development Engineer** with hands-on experience in automation frameworks and AI model validation  
-- 💳 Background in **FinTech & E-Commerce systems**, focusing on data quality, risk control, and system reliability  
-- 🧪 Experienced in **API / UI automation, CI/CD integration, and AI-driven testing pipelines**  
-- 📊 Strong foundation in **data validation, anomaly detection, and evaluation metrics**  
-- 🎓 Master of Information Technology,  **The Hong Kong Polytechnic University**
+- 🤖 **AI Test Development Engineer** with experience in **AI-driven test automation and model validation**  
+- 🧪 Strong in **Python-based automation**, including **API/UI testing and CI/CD-integrated pipelines**  
+- 🧱 Proven **engineering mindset** through projects in **Python web systems** with end-to-end workflow design  
+- 📊 Practical experience using **MySQL for data storage, querying, and validation** in development projects  
+- 🎓 MSc Information Technology, **The Hong Kong Polytechnic University**
  
 ---
 
