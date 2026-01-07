@@ -56,7 +56,7 @@
 ![Docker](https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-F472B6?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-60A5FA?style=flat-square&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-60A5FA?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
