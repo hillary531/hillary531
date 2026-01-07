@@ -12,9 +12,6 @@
   &lines=AI+Test+Development+Engineer;FinTech+Quality+Engineering;AI+Model+%26+Data+Validation;Automation+for+Reliable+Systems" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hillary531&label=Profile%20Views&color=38BDF8&style=flat-square" />
-</p>
 
 ---
 
