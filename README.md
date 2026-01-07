@@ -17,14 +17,14 @@
 ## 🚀 About Me
 
 - 🤖 **AI Test Development Engineer** with hands-on experience in automation frameworks and AI model validation  
-- 💳 Background in **FinTech & e-commerce systems**, focusing on data quality, risk control, and system reliability  
+- 💳 Background in **FinTech & E-Commerce systems**, focusing on data quality, risk control, and system reliability  
 - 🧪 Experienced in **API / UI automation, CI/CD integration, and AI-driven testing pipelines**  
 - 📊 Strong foundation in **data validation, anomaly detection, and evaluation metrics**  
-- 🎓 Master of Information Technology candidate @ **The Hong Kong Polytechnic University** :contentReference[oaicite:0]{index=0}
-
+- 🎓 Master of Information Technology,  **The Hong Kong Polytechnic University**
+ 
 ---
 
-## 🧰 Tech Stack (CV-aligned)
+## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
@@ -64,24 +64,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F472B6?style=for-the-badge&logo=javascript&logoColor=black)
-
-> _Used in academic & project contexts (not full-time frontend specialization)_ :contentReference[oaicite:1]{index=1}
-
----
-
-## 🔥 Selected Experience Highlights
-
-- 🧠 **AI-driven Test Automation Framework**  
-  Python-based framework with Swagger test case generation, PyTest + Allure reporting,  
-  integrated into Jenkins CI/CD for scalable regression testing :contentReference[oaicite:2]{index=2}
-
-- 💳 **FinTech / E-commerce Quality Engineering**  
-  API automation (85%+ coverage), UI automation for WeChat Mini Programs,  
-  and UAT validation to ensure business-critical reliability :contentReference[oaicite:3]{index=3}
-
-- 📊 **Data Quality & Validation Engineering**  
-  Automated data checks using Python (Pandas) & SQL,  
-  anomaly detection workflows, and QA dashboards for business stakeholders :contentReference[oaicite:4]{index=4}
 
 ---
 
