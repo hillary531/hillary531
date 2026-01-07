@@ -23,40 +23,52 @@ Currently pursuing a **Master of Information Technology** and interested in buil
 
 ---
 
-## Core Skills
+## Tech Stack
 
 ### Programming
-- Python · Java · C
+![Python](https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-60A5FA?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-64748B?style=flat-square)
+
+---
 
 ### Testing & Quality Engineering
-- API Automation (Postman, MeterSphere)
-- UI Automation (Selenium)
-- PyTest-based frameworks
-- Test case design & UAT support
+![PyTest](https://img.shields.io/badge/PyTest-60A5FA?style=flat-square&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-6366F1?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-818CF8?style=flat-square&logo=postman&logoColor=white)
+![MeterSphere](https://img.shields.io/badge/MeterSphere-64748B?style=flat-square)
+![JMeter](https://img.shields.io/badge/JMeter-60A5FA?style=flat-square)
+
+---
 
 ### AI & Data
-- Machine Learning fundamentals
-- TensorFlow · PyTorch
-- Computer Vision (image classification, feature extraction)
-- Data validation & anomaly detection
+![TensorFlow](https://img.shields.io/badge/TensorFlow-6366F1?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-60A5FA?style=flat-square&logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-64748B?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-818CF8?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-64748B?style=flat-square)
+
+---
 
 ### DevOps & Tooling
-- Git · Docker · Jenkins
-- Linux
-- Jira · Confluence
+![Git](https://img.shields.io/badge/Git-6366F1?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-60A5FA?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-818CF8?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-64748B?style=flat-square&logo=linux&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-60A5FA?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
 ## Selected Projects
 
 ### AI-driven Test Automation Framework
-A Python-based testing framework for backend and AI services.
+Python-based testing framework for backend and AI services.
 - Swagger-based API test case generation
 - PyTest + Allure execution and reporting
-- Integrated with Jenkins CI/CD for regression testing
+- Jenkins CI/CD integration for regression testing
 
 ### FinTech Risk Control Testing Platform
-Quality engineering support for transaction and risk control systems.
+Quality engineering support for transaction and risk systems.
 - High-coverage API automation
 - Data validation and rule-based checks
 - UAT validation for business-critical scenarios
@@ -86,4 +98,4 @@ B.E. in Computer Science · B.M. in Administration
 
 ---
 
-*Focused on engineering reliable and trustworthy AI-enabled systems through quality and testing.*
+*Focused on building reliable and trustworthy AI-enabled systems through quality engineering.*
